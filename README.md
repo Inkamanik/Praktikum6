@@ -7,7 +7,7 @@
 4. kemudian panggil semua data tadi yang sudah di buat di foder yang berbeda kedalam pusat project yang,
 yang ingin kita buat jalan kan project itu dengan menggunakan fungsi juga 
 5. run project jika tidak ada kendala atau eror
-5. end
+6. end
 
 
 **Kode Program**
@@ -77,7 +77,7 @@ int inputData(string v)
 
 ![sss](https://raw.githubusercontent.com/Inkamanik/Praktikum6/master/latihan1/1.png)
 ![flow](https://raw.githubusercontent.com/Inkamanik/Praktikum6/master/latihan1/IMG-20181201-WA0020.jpg)
-
+```
 
 ##latihan2.1
 
