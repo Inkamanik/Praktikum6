@@ -75,8 +75,8 @@ int inputData(string v)
 }
 ```
 
-![sss](https://raw.githubusercontent.com/Amirul29/praktikum6/master/latihan1/1.png)
-![flow](
+![sss](https://raw.githubusercontent.com/Inkamanik/Praktikum6/master/latihan1/1.png)
+![flow](https://raw.githubusercontent.com/Inkamanik/Praktikum6/master/latihan1/IMG-20181201-WA0020.jpg)
 
 
 ##latihan2.1
@@ -113,7 +113,8 @@ cout << "Nilai 2 : " << b << endl;
 return 0;
 }
 ```
-![ss2]()
+![ss2.1](https://raw.githubusercontent.com/Inkamanik/Praktikum6/master/latihan2/21.png)
+![flow](https://raw.githubusercontent.com/Inkamanik/Praktikum6/master/latihan2/IMG-20181201-WA0019.jpg)
 
 ##latihan2.2
 
@@ -149,5 +150,5 @@ main(){
     return 0;
 }
 ```
-![ss2]()
-![flow](
+![ss2.2](https://raw.githubusercontent.com/Inkamanik/Praktikum6/master/latihan2/22.png)
+![flow](https://raw.githubusercontent.com/Inkamanik/Praktikum6/master/latihan2/IMG-20181201-WA0018.jpg)
